@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wintermute
-- 👀 I’m interested in Control System/Deep Learning/Computer Science
-- 🌱 I’m currently learning git/python/Csharp
+- 👀 I’m interested in Control System/robotics/similation
+- 🌱 I’m currently learning RL/VLA
 - 💞️ I’m looking to collaborate on Robotics/Deep Learning/simulation
 - 📫 How to reach me :13364149979@163.com
 - Tianjin University
