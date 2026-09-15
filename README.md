@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning RL/VLA
 - 💞️ I’m looking to collaborate on Robotics/Deep Learning/simulation
 - 📫 How to reach me :13364149979@163.com
+- working experiences:
+    2025.7-2025.10 linkerbot Embodied AI algorithm intern
+    2026.7~        lightwheel Embodied AI algorithm intern
 - Tianjin University
 
 <!---
