@@ -1,4 +1,4 @@
-# Hi, I'm Chi Xu (迟旭)
+# Hi, I'm wintermute
 
 **Embodied Robotics Algorithm Engineer · Tianjin University · 2027**
 
