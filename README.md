@@ -31,6 +31,7 @@ can be measured, debugged, and improved on real hardware.
 - Embodied AI algorithm intern at **LinkerBot** (2025)
 - Research on auditable robot teleoperation data collection and shared control
 
+
 ## Stack
 
 `Python` `C++` `ROS 2` `Linux` `Git` `Docker` `Isaac Sim/Lab` `MuJoCo`
