@@ -20,7 +20,7 @@ can be measured, debugged, and improved on real hardware.
 | Project | What it is |
 | --- | --- |
 | [RunEvidence](https://github.com/wintermute1895/RunEvidence) | A portable evidence layer for local, container, remote, and GPU runs. |
-| [ICRA2027_TELEOP](https://github.com/wintermute1895/ICRA2027_TELEOP) | A ROS 2 platform for dual-arm teleoperation, multimodal capture, and offline trajectory evaluation. |
+| [RA-L](https://github.com/wintermute1895/ICRA2027_TELEOP) | A ROS 2 platform for dual-arm teleoperation, multimodal capture, and offline trajectory evaluation. |
 | [VIST_IROS2026](https://github.com/wintermute1895/VIST_IROS2026) | Vision-guided, intent-aware shared control for precision teleoperation research. |
 | [PICO_Hand_Tracking](https://github.com/wintermute1895/PICO_Hand_Tracking) | PICO hand keypoint tracking and dexterous retargeting experiments. |
 | [DexCatch](https://github.com/none-nul/DexCatch) | A vision-guided manipulation project for agricultural robotics. |
